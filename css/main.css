@@ -1,0 +1,42 @@
+@import 'https://fonts.googleapis.com/css?family=Tillana';
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+  background: #C9FFBF;
+  background: -webkit-linear-gradient(to left, #C9FFBF , #FFAFBD);
+  background: linear-gradient(to left, #C9FFBF , #FFAFBD); 
+  font-family: 'Tillana', cursive;
+  font-size: 16px;
+}
+.page-header {
+  text-align: center;
+}
+.wrap {
+   margin-top: 3%;
+}
+.wrap2 {
+    margin-top: 4%;
+}
+.wrap3 {
+    margin-top: 7%;
+}
+.container {
+  text-align: center;
+}
+.more-emails {
+  text-decoration: none;
+  text-align: center;
+  color: #5551ec;
+  font-size: 20px;
+  padding-top: 20px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  font-size: 15px
+}
